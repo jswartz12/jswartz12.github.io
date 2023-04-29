@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b30f827-1cbe-40c7-96d9-abb7ce4ff4ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/files/JosephSwartz-Resume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Aurora_University_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wJXPXPW7_400x400.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630515489947</updated>
       <workItem from="1630515491716" duration="29000" />
-      <workItem from="1682775902171" duration="843000" />
+      <workItem from="1682775902171" duration="2947000" />
     </task>
     <servers />
   </component>
